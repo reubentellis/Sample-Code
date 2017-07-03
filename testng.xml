@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "TestLoginPage">
+	<test name = "LoginIntoTestSite"> 
+		<classes>
+			<class name = "tests.LoginTests">
+			</class>
+		</classes>
+	</test>
+</suite>
